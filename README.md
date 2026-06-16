@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanyasinghp
 - 👀 Product × AI/ML × Data Science
-- 🌱 Exploring Generative AI and intelligent systems - Knowledge Graphs • Agentic Systems • LLM Evaluation • Enterprise AI • System Design
+- 🌱 Building Generative AI systems - Knowledge Graphs • Agentic Systems • LLM Evaluation • Enterprise AI • System Design
 - 💞️ Always open to collaborating on impactful projects and exchanging ideas with curious builders
 - 🚀 DM me if there's a cool open-source project or case study I can contribute to!
 
