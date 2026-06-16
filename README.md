@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @tanyasinghp
-- 👀 I’m interested in Machine Learning, Deep Learning, Cloud technologies and data analysis.
-- 🌱 I’m currently learning core Java concepts and building on my Deep learning skills 
-- 💞️ I’m looking to collaborate on any project that aligns with my interests.
+- 👀 Product × AI/ML × Data Science
+- 🌱 Exploring Generative AI and intelligent systems - Knowledge Graphs • Agentic Systems • LLM Evaluation • Enterprise AI • System Design
+- 💞️ Always open to collaborating on impactful projects and exchanging ideas with curious builders
+- 🚀 DM me if there's a cool open-source project or case study I can contribute to!
 
 
 ## 🌐 Socials:
