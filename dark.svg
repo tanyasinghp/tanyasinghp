@@ -541,7 +541,7 @@
             <animate attributeName="opacity" values="0;1" dur=".6s" begin="2s" fill="freeze"/>
 
             <text x="234" y="420" text-anchor="middle" font-size="18" font-weight="700" fill="#F8FAFC" letter-spacing="-.3">
-                @developer
+                @tanyasinghp
                 <animate attributeName="y" values="430;420" dur=".5s" begin="2s" fill="freeze"/>
             </text>
 
@@ -550,7 +550,7 @@
             </rect>
 
             <text x="234" y="448" text-anchor="middle" font-size="11" fill="#64748B" letter-spacing=".2">
-                full-stack · ai · systems
+                Product × AI/ML × Data Science
             </text>
 
             <text x="290" y="420" text-anchor="middle"
@@ -636,26 +636,27 @@
                 <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="1.5s" fill="freeze"/>'</tspan>
                 <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="1.56s" fill="freeze"/>m</tspan>
                 <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="1.62s" fill="freeze"/> </tspan>
-                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="1.68s" fill="freeze"/>a</tspan>
-                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="1.74s" fill="freeze"/> </tspan>
-                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="1.8s" fill="freeze"/>D</tspan>
-                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="1.86s" fill="freeze"/>e</tspan>
-                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="1.92s" fill="freeze"/>v</tspan>
-                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="1.98s" fill="freeze"/>e</tspan>
-                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="2.04s" fill="freeze"/>l</tspan>
-                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="2.1s" fill="freeze"/>o</tspan>
-                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="2.16s" fill="freeze"/>p</tspan>
-                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="2.22s" fill="freeze"/>e</tspan>
-                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="2.28s" fill="freeze"/>r</tspan>
+                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="1.68s" fill="freeze"/>@</tspan>
+                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="1.74s" fill="freeze"/>t</tspan>
+                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="1.8s" fill="freeze"/>a</tspan>
+                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="1.86s" fill="freeze"/>n</tspan>
+                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="1.92s" fill="freeze"/>y</tspan>
+                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="1.98s" fill="freeze"/>a</tspan>
+                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="2.04s" fill="freeze"/>s</tspan>
+                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="2.1s" fill="freeze"/>i</tspan>
+                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="2.16s" fill="freeze"/>n</tspan>
+                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="2.22s" fill="freeze"/>g</tspan>
+                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="2.28s" fill="freeze"/>h</tspan>
+                <tspan opacity="0"><animate attributeName="opacity" values="0;1" dur=".01s" begin="2.34s" fill="freeze"/>p</tspan>
             </text>
 
-            <text x="685" y="180" fill="#22D3EE" font-size="22" font-weight="700" opacity="0">
-                <animate attributeName="opacity" values="1;0;1" dur=".6s" begin="2.34s" repeatCount="indefinite"/>_
+            <text x="690" y="180" fill="#22D3EE" font-size="22" font-weight="700" opacity="0">
+                <animate attributeName="opacity" values="1;0;1" dur=".6s" begin="2.4s" repeatCount="indefinite"/>_
             </text>
 
             <!-- Line 4: subtitle -->
             <text x="480" y="204" fill="#94A3B8" font-size="12" opacity="0">
-                Building robust systems with clean code &amp; modern AI.
+                Building Generative AI · Knowledge Graphs · Agentic Systems
                 <animate attributeName="opacity" values="0;1" dur=".4s" begin="2.8s" fill="freeze"/>
             </text>
 
