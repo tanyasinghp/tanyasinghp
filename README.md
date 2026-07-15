@@ -77,10 +77,10 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanyasinghp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyasinghp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+</p> -->
 
 <p align="center">
   <picture>
@@ -90,9 +90,9 @@
   </picture>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=tanyasinghp&icon=5&color=6" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tanyasinghp&theme=tokyonight&hide_border=true" />
